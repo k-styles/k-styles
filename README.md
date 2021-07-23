@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Python and ML Projects  
 - 🤔 I’m looking for help with Algorithms and Bayesian Theory  
 - 💬 Ask me about My ongoing projects or to collaborate on python or ML projects  
-- 📫 How to reach me: https://www.linkedin.com/in/kartik-anand-6abb94192/  
+- 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
 - 😄 Pronouns: He/Him or Zie/Zim  
 - ⚡ Fun fact: I love Cats and --pizzas. Vegan. Weeb. Dattebayo!  
 
