@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Audio Processing and VHDL packages for FPGA Emulation of Quantum Circuits  
 - 🌱 I’m currently learning Data Structures and Algorithms and Bayesian Interpretation of Machine Learning  
-- 👯 I’m looking to collaborate on Python and ML Projects  
+- 👯 I’m looking to collaborate on Python Web App or ML Projects  
 - 🤔 I’m looking for help with Algorithms and Bayesian Theory  
 - 💬 Ask me about My ongoing projects or to collaborate on python or ML projects  
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
