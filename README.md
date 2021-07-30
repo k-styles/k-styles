@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Algorithms and Bayesian Theory  
 - 💬 Ask me about My ongoing projects or to collaborate on python or ML projects  
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
-- 😄 Pronouns: He/Him or Zie/Zim  
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats and --pizzas. Vegan. Weeb. Dattebayo!  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=k-styles&count_private=true&theme=tokyonight&showicons=true)]()
