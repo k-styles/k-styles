@@ -2,6 +2,7 @@
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on a Simulation of Natural Selection, using OpenGL specification
+- 👥 I'm currently contributing to <a href='https://github.com/scipy/scipy'>Scipy</a>
 - 🌱 I’m currently learning Probabilistic Machine Learning
 - 👯 I’m looking to collaborate on ML Projects
 - 🤔 I’m looking for help with Bayesian Statistics and my clean/efficient coding skills
