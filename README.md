@@ -5,7 +5,7 @@
 - 👥 I'm currently contributing to <a href='https://github.com/scipy/scipy'>Scipy</a>
 - 🌱 I’m currently learning Probabilistic Machine Learning
 - 👯 I’m looking to collaborate on ML Projects
-- 🤔 I’m looking for help with Bayesian Statistics and writing clean and efficient python scripts
+- 🤔 I’m looking for help with Quantum Machine Learning
 - 💬 Ask me about my ongoing projects or to collaborate on python or ML projects or a latest anime I have watched
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
 - 😄 Pronouns: He/Him
