@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Probabilistic Machine Learning
 - 👯 I’m looking to collaborate on ML Projects
 - 🤔 I’m looking for help with Quantum Machine Learning
-- 💬 Ask me about my ongoing projects or to collaborate on python or ML projects or a latest anime I have watched
+- 💬 Ask me about my ongoing projects or to collaborate on python or ML projects or an latest anime I'm watching
+- ✍🏻 I <a href='https://medium.com/@kartikhanand'>write</a>
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats and --pizzas. Vegan. Weeb. Dattebayo!  
