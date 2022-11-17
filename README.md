@@ -1,7 +1,7 @@
 ![images](https://user-images.githubusercontent.com/69641277/126748302-42436b51-8406-418b-bece-6b301a5e2475.jpeg)
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a Simulation of Natural Selection, using OpenGL specification
+- 🔭 I’m currently working on Self-Attention GAN (SAGAN)
 - 👥 I'm currently contributing to <a href='https://github.com/scipy/scipy'>Scipy</a>
 - 🌱 I’m currently learning Probabilistic Machine Learning
 - 👯 I’m looking to collaborate on ML Projects
