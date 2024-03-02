@@ -5,7 +5,7 @@
 - 👥 I'm currently contributing to <a href='https://github.com/scipy/scipy'>Scipy</a>
 - 🌱 I’m currently learning Bayesian Machine Learning
 - 👯 I’m looking to collaborate on Quantitative Trading Projects
-- 🤔 I’m looking for help with Quant Development
+- 🤔 I’m looking for help with Quant
 - 💬 Ask me about my ongoing projects or for collaboration or the latest anime I'm watching
 - ✍🏻 I <a href='https://medium.com/@kartikhanand'>write</a>
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
