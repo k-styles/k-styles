@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Quantum Complexity Theory
 - 🌱 I’m currently expanding my research areas in theoretical quantum research
-- 👯 I’m looking to collaborate on quantum computing research papers
+- 👯 I’m open to collaborate on quantum computing research papers
 - 💬 Ask me about my ongoing projects or for collaboration or the latest anime I'm watching
 - ✍🏻 I <a href='https://medium.com/@kartikhanand'>write</a>
 - 📫 Reach me: <a href='https://www.linkedin.com/in/kartik-anand-6abb94192/'>LinkedIn</a>   
